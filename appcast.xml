@@ -5,11 +5,11 @@
     <description>Most recent changes with links to updates</description>
     <language>en</language>
     <item>
-      <title>Traild Integration 1.2</title>
+      <title>Traild Integration 1.3</title>
       <pubDate>Wed, 14 Aug 2024 15:21:53 +10:00</pubDate>
-      <sparkle:version>1.2</sparkle:version>
-      <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
-      <enclosure url="https://github.com/james-traild/sparkletest/blob/main/Output/mysetup.exe" sparkle:version="1.2" sparkle:shortVersionString="1.2" length="28725417" sparkle:os="windows" type="application/octet-stream" sparkle:criticalUpdate="false" sparkle:signature="hLtvXXepXH+lMqkMfQLHrTVDsbDhbrBNBY1XomBL3gm7jojrW7Dp8LxRZyhRVpy1momdH2pr45n9k79eIt3XCg==" />
+      <sparkle:version>1.3</sparkle:version>
+      <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
+      <enclosure url="https://github.com/james-traild/sparkletest/blob/main/Output/mysetup.exe" sparkle:version="1.3" sparkle:shortVersionString="1.3" length="28725328" sparkle:os="windows" type="application/octet-stream" sparkle:criticalUpdate="false" sparkle:signature="ESv5z7Upg6bAIsbNFOIFwBgBacDsMv5XoKVWl1J/WjDziN4zpG13SU4+jPbFjC0DiNAwUFsnvyFNLo+22888Cw==" />
     </item>
   </channel>
 </rss>
