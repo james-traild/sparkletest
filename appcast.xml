@@ -9,7 +9,7 @@
       <pubDate>Wed, 14 Aug 2024 15:21:53 +10:00</pubDate>
       <sparkle:version>1.1</sparkle:version>
       <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
-      <enclosure url="https://github.com/james-traild/sparkletest/blob/main/Output/mysetup.exe/mysetup.exe" sparkle:version="1.1" sparkle:shortVersionString="1.1" length="28725353" sparkle:os="windows" type="application/octet-stream" sparkle:criticalUpdate="false" sparkle:signature="8WpwYY7+xqmnOfDr9FyHIq8mTTf4YDza/BstYI/EztPv4ALhgO7CwogIRoWsXrEc8vi42PZTlwCmAVIMTdAdCA==" />
+      <enclosure url="https://github.com/james-traild/sparkletest/blob/main/Output/mysetup.exe" sparkle:version="1.1" sparkle:shortVersionString="1.1" length="28725353" sparkle:os="windows" type="application/octet-stream" sparkle:criticalUpdate="false" sparkle:signature="8WpwYY7+xqmnOfDr9FyHIq8mTTf4YDza/BstYI/EztPv4ALhgO7CwogIRoWsXrEc8vi42PZTlwCmAVIMTdAdCA==" />
     </item>
   </channel>
 </rss>
