@@ -1,15 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel>
-    <title>Traild Integration</title>
-    <description>Most recent changes with links to updates</description>
-    <language>en</language>
-    <item>
-      <title>Traild Integration 1.3</title>
-      <pubDate>Wed, 14 Aug 2024 15:21:53 +10:00</pubDate>
-      <sparkle:version>1.3</sparkle:version>
-      <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
-      <enclosure url="https://github.com/james-traild/sparkletest/blob/main/Output/mysetup.exe" sparkle:version="1.3" sparkle:shortVersionString="1.3" length="28725328" sparkle:os="windows" type="application/octet-stream" sparkle:criticalUpdate="false" sparkle:signature="ESv5z7Upg6bAIsbNFOIFwBgBacDsMv5XoKVWl1J/WjDziN4zpG13SU4+jPbFjC0DiNAwUFsnvyFNLo+22888Cw==" />
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8"?><rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"><channel><title>Application</title><description>Most recent changes with links to updates</description><language>en</language><item><title>Application 1.5</title><pubDate>Wed, 14 Aug 2024 15:21:53 +10:00</pubDate><sparkle:version>1.5</sparkle:version><sparkle:shortVersionString>1.5</sparkle:shortVersionString><enclosure url="mysetup.exe" sparkle:version="1.5" sparkle:shortVersionString="1.5" length="36770015" sparkle:os="windows" type="application/octet-stream" sparkle:criticalUpdate="false" sparkle:signature="zrM1hrA/zKgEYLRN2J1M2zRyS2iXnD+QX5Bcooh3YFljoJp8VgvvDhgTgNQZu1yFRUMd97dMguTxU2mQsYGKCA==" /></item></channel></rss>
