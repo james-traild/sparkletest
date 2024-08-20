@@ -5,11 +5,11 @@
     <description>Most recent changes with links to updates</description>
     <language>en</language>
     <item>
-      <title>Application 2.2</title>
+      <title>Application 2.4</title>
       <pubDate>Wed, 14 Aug 2024 15:21:53 +10:00</pubDate>
-      <sparkle:version>2.2</sparkle:version>
-      <sparkle:shortVersionString>2.2</sparkle:shortVersionString>
-      <enclosure url="https://github.com/james-traild/sparkletest/raw/main/Output/mysetup.exe" sparkle:version="2.2" sparkle:shortVersionString="2.2" length="4056443" sparkle:os="windows" type="application/octet-stream" sparkle:criticalUpdate="false" sparkle:signature="1nMKFG/gJVYye7PUx7aUO3ZEAyuqDcRvKkdoXmCfHqS3iG0OULavBDPr/ffdQqgmQwJIv9oNEXTOwd8AOJq7CQ==" />
+      <sparkle:version>2.4</sparkle:version>
+      <sparkle:shortVersionString>2.4</sparkle:shortVersionString>
+      <enclosure url="https://github.com/james-traild/sparkletest/raw/main/Output/mysetup.exe" sparkle:version="2.4" sparkle:shortVersionString="2.4" length="4055908" sparkle:os="windows" type="application/octet-stream" sparkle:criticalUpdate="false" sparkle:signature="WBFkJLbSFLmURCPqRDIdkEr8la/p0TI/HNAmyUcxpoAK5E2ntYaaYHwd/r0nWCGGnAepOXdT01WhN90AWYQrDg==" />
     </item>
   </channel>
 </rss>
